@@ -2,7 +2,7 @@
 
 English · [简体中文](README.zh-CN.md)
 
-Real-time voice effects, a soundboard and local WAV recording for Windows and Mac.
+Real-time voice effects, a soundboard and local MP3 / WAV recording for Windows and Mac.
 
 ## Download
 
@@ -17,7 +17,7 @@ Select the Windows or Mac package. Extract the complete archive before running.
 
 ## Free and Pro
 
-**Free:** 7 voices, 6 sound effects, basic controls and unlimited WAV recording.
+**Free:** 7 voices, 6 sound effects, basic controls and unlimited MP3 / WAV recording.
 
 **Pro: US$9.90 once.** All built-in voices and effects, custom presets, and lifetime updates including future major versions. No subscription. One active computer; unbind before moving your license. Activate online, then work offline.
 
