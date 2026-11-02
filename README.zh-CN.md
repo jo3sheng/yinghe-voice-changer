@@ -2,24 +2,24 @@
 
 [English](README.md) · 简体中文
 
-**轻量、本地处理的变声、音效与录音工作台，支持 Windows 和 Mac。**切换预设、调整声音、加入音效，再录制为 **MP3 或 WAV**，在一个顺手的桌面界面中完成。
+<strong>轻量、本地处理的变声、音效与录音工作台，支持 Windows 和 Mac。</strong> 切换预设、调整声音、加入音效，再录制为 <strong>MP3 或 WAV</strong>，在一个顺手的桌面界面中完成。
 
 ![映核变声器 — 真实 Windows 中文界面](workspace-zh.png)
 
 *Windows 界面版本为 0.3.9；Mac 使用独立的原生界面。*
 
-**[前往 GitHub 下载](https://github.com/jo3sheng/yinghe-voice-changer/releases/latest)** · **[打开百度共享网盘](https://pan.baidu.com/s/1pQZ48qI7X-fQc2ppgx84rg?pwd=dp5p)** · 提取码：**dp5p**
+<strong>[前往 GitHub 下载](https://github.com/jo3sheng/yinghe-voice-changer/releases/latest)</strong> · <strong>[打开百度共享网盘](https://pan.baidu.com/s/1pQZ48qI7X-fQc2ppgx84rg?pwd=dp5p)</strong> · 提取码：<strong>dp5p</strong>
 
 ## 一款软件，多种声音玩法
 
-- **实时变声：**免费体验原声、男声、女声、童声、低沉、明亮、机器人共 7 种声音；专业版解锁其余内置角色。
-- **音效面板：**在同一个窗口触发反应音效。免费使用前 6 个音效，专业版解锁更多音效与编辑功能。
-- **声音调节：**调整音高、音色、混响、回音，配合麦克风音量、输出音量和噪声门，找到合适的声音效果。
-- **MP3／WAV 录音：**Windows 与 Mac 均可在本地录制最终人声与音效混音，免费版也不限录音时长。
-- **操作顺手：**支持耳机监听、静音、原声直通、输入输出电平及全局快捷键，减少来回切换窗口。
-- **保存自己的声音：**专业版可编辑并保存自定义声音预设，下次直接调用。
-- **轻量本地处理：**声音在自己的电脑上处理，不需要下载大型 AI 语音模型，也不按处理分钟收费。
-- **连接直播与聊天：**通过另行安装的虚拟音频线，将处理后的声音送入 OBS 或聊天软件。
+- <strong>实时变声：</strong>免费体验原声、男声、女声、童声、低沉、明亮、机器人共 7 种声音；专业版解锁其余内置角色。
+- <strong>音效面板：</strong>在同一个窗口触发反应音效。免费使用前 6 个音效，专业版解锁更多音效与编辑功能。
+- <strong>声音调节：</strong>调整音高、音色、混响、回音，配合麦克风音量、输出音量和噪声门，找到合适的声音效果。
+- <strong>MP3／WAV 录音：</strong>Windows 与 Mac 均可在本地录制最终人声与音效混音，免费版也不限录音时长。
+- <strong>操作顺手：</strong>支持耳机监听、静音、原声直通、输入输出电平及全局快捷键，减少来回切换窗口。
+- <strong>保存自己的声音：</strong>专业版可编辑并保存自定义声音预设，下次直接调用。
+- <strong>轻量本地处理：</strong>声音在自己的电脑上处理，不需要下载大型 AI 语音模型，也不按处理分钟收费。
+- <strong>连接直播与聊天：</strong>通过另行安装的虚拟音频线，将处理后的声音送入 OBS 或聊天软件。
 
 ## 免费版就能满足日常使用
 
@@ -33,10 +33,10 @@
 | MP3 与 WAV 录音 | 不限时长 | 不限时长 |
 | 其余内置声音与音效 | — | 全部解锁 |
 | 编辑音效、保存自定义声音预设 | — | 包含 |
-| 价格 | 免费 | **US$9.90 一次买断** |
+| 价格 | 免费 | <strong>US$9.90 一次买断</strong> |
 | 订阅费用 | 无 | 无 |
 
-**小价格，一次买断，永久免费更新：**专业版仅需 **US$9.90**，一次付款，**永久免费更新，包含未来大版本**。没有月费，不需要按年续费。每个授权同时激活一台电脑；首次联网激活，之后可离线使用。换电脑前先联网解绑，即可转移授权。
+<strong>小价格，一次买断，永久免费更新：</strong> 专业版仅需 <strong>US$9.90</strong>，一次付款，<strong>永久免费更新，包含未来大版本</strong>。没有月费，不需要按年续费。每个授权同时激活一台电脑；首次联网激活，之后可离线使用。换电脑前先联网解绑，即可转移授权。
 
 [购买专业版](https://yinghe.org/voice-changer/buy.php) · [找回已购买的注册码](https://yinghe.org/voice-changer/account.php) · [请我喝杯咖啡](https://buy.stripe.com/28E9AU6F85Rz0Dh5MS3AY00)
 
@@ -61,10 +61,10 @@
 
 ## 接入 OBS 或聊天软件
 
-请另行安装对应系统的第三方 [VB-CABLE](https://vb-audio.com/Cable/)。本软件输出选择 **CABLE Input**，接收软件的麦克风选择 **CABLE Output**；关闭接收端原麦克风输入，避免双重声音。仅在本机用耳机试听或录音，无需虚拟音频线。
+请另行安装对应系统的第三方 [VB-CABLE](https://vb-audio.com/Cable/)。本软件输出选择 <strong>CABLE Input</strong>，接收软件的麦克风选择 <strong>CABLE Output</strong>；关闭接收端原麦克风输入，避免双重声音。仅在本机用耳机试听或录音，无需虚拟音频线。
 
 ## 关于“Source code”文件
 
-本仓库放置产品说明与软件截图，安装包作为 Release 附件提供。**这里没有公开映核软件的应用源码。**GitHub 会自动把仓库快照标为“Source code”，但这里的快照只包含说明与素材，不是软件源码。第三方组件仍遵循各自许可证。
+本仓库放置产品说明与软件截图，安装包作为 Release 附件提供。<strong>这里没有公开映核软件的应用源码。</strong> GitHub 会自动把仓库快照标为“Source code”，但这里的快照只包含说明与素材，不是软件源码。第三方组件仍遵循各自许可证。
 
 [产品官网](https://yinghe.org/voice-changer.html) · [联系支持](mailto:licenses@yinghe.org)
