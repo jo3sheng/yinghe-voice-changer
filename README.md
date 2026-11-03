@@ -1,3 +1,5 @@
+<p><a href="https://yinghe.org"><img src="yinghe-logo.png" alt="YINGHE" width="80" height="80"></a></p>
+
 # YINGHE Voice Changer
 
 English · [简体中文](README.zh-CN.md)
@@ -38,7 +40,7 @@ Free is available for ongoing use. Change your voice, play sounds and make unlim
 
 **An affordable one-time upgrade:** Pro costs **US$9.90**, with **lifetime free updates, including future major versions**. No monthly bill or annual renewal. One active computer per license. Activate online, then work offline; unbind online before transferring to another computer.
 
-[Buy Pro](https://yinghe.org/voice-changer/buy.php) · [Recover a code](https://yinghe.org/voice-changer/account.php) · [Buy me a coffee](https://buy.stripe.com/28E9AU6F85Rz0Dh5MS3AY00)
+[Buy Pro](https://buy.stripe.com/28EbJ23sW1Bj5XBcbg3AY04) · [Recover a code](https://yinghe.org/voice-changer/account.php) · [Buy me a coffee](https://buy.stripe.com/28E9AU6F85Rz0Dh5MS3AY00)
 
 Coffee is optional support and does not purchase a Pro license.
 

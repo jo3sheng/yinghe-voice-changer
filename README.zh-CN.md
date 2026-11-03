@@ -1,3 +1,5 @@
+<p><a href="https://yinghe.org"><img src="yinghe-logo.png" alt="映核" width="80" height="80"></a></p>
+
 # 映核变声器
 
 [English](README.md) · 简体中文
@@ -38,7 +40,7 @@
 
 <strong>小价格，一次买断，永久免费更新：</strong> 专业版仅需 <strong>US$9.90</strong>，一次付款，<strong>永久免费更新，包含未来大版本</strong>。没有月费，不需要按年续费。每个授权同时激活一台电脑；首次联网激活，之后可离线使用。换电脑前先联网解绑，即可转移授权。
 
-[购买专业版](https://yinghe.org/voice-changer/buy.php) · [找回已购买的注册码](https://yinghe.org/voice-changer/account.php) · [请我喝杯咖啡](https://buy.stripe.com/28E9AU6F85Rz0Dh5MS3AY00)
+[购买专业版](https://buy.stripe.com/28EbJ23sW1Bj5XBcbg3AY04) · [找回已购买的注册码](https://yinghe.org/voice-changer/account.php) · [请我喝杯咖啡](https://buy.stripe.com/28E9AU6F85Rz0Dh5MS3AY00)
 
 咖啡仅为自愿支持，不购买专业版、不生成专业版注册码。
 
